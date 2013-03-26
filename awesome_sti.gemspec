@@ -6,10 +6,10 @@ require 'awesome_sti/version'
 Gem::Specification.new do |spec|
   spec.name          = "awesome_sti"
   spec.version       = AwesomeSti::VERSION
-  spec.authors       = ["vladson"]
+  spec.authors       = ["Vladisalv Bogomolov"]
   spec.email         = ["vladson4ik@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ Improvements for STI system of Ruby on rails }
+  spec.summary       = %q{ Sti improvement for ruby on rails and activerecord }
   spec.homepage      = ""
   spec.license       = "MIT"
 
